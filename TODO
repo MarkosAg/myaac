@@ -87,6 +87,7 @@
 		* using Mobile_Detect.php library
 
 x.x - At any time between (version not specified)
+	* discord bot, posting each time release comes (or maybe all commits - too much mess?)
 	* better news archive with search function (like on tibia.com)
 	* guild wars management (issue #13 on github)
 	* update account.management page to be more realistic (like on tibia.com)
